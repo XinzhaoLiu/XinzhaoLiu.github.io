@@ -13,9 +13,7 @@ Hi, my name is Xinzhao Liu. I'm currently a Phd student in Computer Science and 
 **Education**
 ======
 2019 ~ current, The Ohio State University, USA
-
 2014 ~ 2016, University of Rochester, USA
-
 2010 ~ 2014, Dalian University of Technology,  China
 
 
