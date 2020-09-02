@@ -9,12 +9,6 @@ redirect_from:
 ---
 Hi, my name is Xinzhao Liu. I'm currently a Phd student in Computer Science and Engineering at [The Ohio State University](https://www.osu.edu/), advised by [Prof. Deliang Wang](https://web.cse.ohio-state.edu/~wang.77/). I received my master degree from [University of Rochester](https://www.rochester.edu/) and bachelor degree from [Dalian University of Technolofy](https://en.dlut.edu.cn/). I'm broadly interested in speech enhancement, auditory perception and machine learning. 
 
-**Education**
-------
-* 2019 ~ current, The Ohio State University, USA<br>
-* 2014 ~ 2016, University of Rochester, USA<br>
-* 2010 ~ 2014, Dalian University of Technology,  China<br>
-
 **Publication**
 ------
 1. Bochen Li*, Xinzhao Liu*, Karthik Dinesh, Zhiyao Duan, and Gaurav Sharma, "Creating a multi-track classical music performance dataset for multi-modal music analysis: challenges, insights, and applications", IEEE Transactions on Multimedia, 2018. (* equal contribution) [Link](http://www2.ece.rochester.edu/projects/air/projects/av_music.html)
