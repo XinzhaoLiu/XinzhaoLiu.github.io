@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, my name is Xinzhao Liu. I'm currently a PhD student in Computer Science and Engineering at [The Ohio State University](https://www.osu.edu/), advised by [Prof. Deliang Wang](https://web.cse.ohio-state.edu/~wang.77/). I received my master degree from [University of Rochester](https://www.rochester.edu/) and bachelor degree from [Dalian University of Technolofy](https://en.dlut.edu.cn/). I'm broadly interested in speech enhancement, auditory perception and machine learning. 
+Hi, my name is Xinzhao Liu. I'm currently a PhD student in Computer Science and Engineering at [The Ohio State University](https://www.osu.edu/), advised by [Prof. Deliang Wang](https://web.cse.ohio-state.edu/~wang.77/). I received my master degree from [University of Rochester](https://www.rochester.edu/) and bachelor degree from [Dalian University of Technology](https://en.dlut.edu.cn/). I'm broadly interested in speech enhancement, auditory perception and machine learning. 
 
 **Publication**
 ------
